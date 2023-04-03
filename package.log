@@ -1,0 +1,7 @@
+Apr-02-23 19:54:22: INFO - *****Beginning Log*****
+Apr-02-23 19:54:22: INFO - Function started.
+Apr-02-23 19:54:22: INFO - Function setup took 0.004776644997036783 seconds.
+Apr-02-23 19:54:22: INFO - Function started.
+Apr-02-23 19:54:23: INFO - Function scrape took 1.4009941119984433 seconds.
+Apr-02-23 19:54:23: INFO - Function started.
+Apr-02-23 19:54:23: INFO - Function get_data took 1.4940000255592167e-05 seconds.
